@@ -1,6 +1,10 @@
 
 {
-"รวมยอดขาย": "Total Sales",
+    "ราคารวม": "Total Price",
+    "คำสั่งซื้อทั้งหมด": "Total Orders: @count items",
+    "ยอดชำระเงินทั้งหมด": "Total Payment",
+    "สร้างการติดตาม Call Sell": "Create Call Sell Tracking",
+    "รวมยอดขาย": "Total Sales",
     "จำนวนสินค้าที่ขาย": "Number of Products Sold",
     "อันดับ": "Rank",
     "ดูสลิป": "View Slip",
