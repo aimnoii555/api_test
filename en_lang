@@ -1,7 +1,7 @@
 
 {
     "ราคารวม": "Total Price",
-    "คำสั่งซื้อทั้งหมด": "Total Orders: @count item(s)",
+    "คำสั่งซื้อทั้งหมด": "Total Orders: @amount item(s)",
     "ยอดชำระเงินทั้งหมด": "Total Payment",
     "สร้างการติดตาม Call Sell": "Create Call Sell Tracking",
     "รวมยอดขาย": "Total Sales",
