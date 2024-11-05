@@ -1,4 +1,8 @@
 {
+  "ราคารวม": "Tổng giá",
+    "คำสั่งซื้อทั้งหมด": "Tổng đơn hàng: @count sản phẩm",
+    "ยอดชำระเงินทั้งหมด": "Tổng thanh toán",
+    "สร้างการติดตาม Call Sell": "Tạo theo dõi Call Sell",
   "รวมยอดขาย": "Tổng doanh thu",
     "จำนวนสินค้าที่ขาย": "Số lượng sản phẩm đã bán",
     "อันดับ": "Hạng",
